@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Avishka Abeywickrama
-- 🌱 I'm a computer engineering undergraduate
-- 💞️ I’m looking to collaborate on various projects which can enrich my knowlege and experiences
-- 📫 How to reach me avishkaabeywickrama99@gmail.com
+- 👋 Hi, I’m Avishka Abeywickrama.
+- 🌱 I'm a computer engineering undergraduate.
+- 💞️ I’m looking to collaborate on various projects which can enrich my knowlege and experiences.
+- 📫 How to reach me avishkaabeywickrama99@gmail.com.
 
 <!---
 avishka4444/avishka4444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
