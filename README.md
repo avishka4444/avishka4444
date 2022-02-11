@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avishka Abeywickrama.
 - 🌱 I'm an undergraduate at University of Peradeniya Department of Computer Engineering.
-- 💞️ I’m looking to collaborate on various projects which can enrich my knowlege and experiences.
+- 💞️ I’m looking to collaborate on various projects which can enrich my knowledge and experiences.
 - 📫 How to reach me avishkaabeywickrama99@gmail.com.
 
 <!---
