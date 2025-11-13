@@ -1,87 +1,83 @@
 # 👋 Hey, I'm **Avishka Abeywickrama**
 
 🚀 **Full-Stack Software Engineer | Computer Engineering Undergraduate (UoP)**  
-💡 Passionate about building scalable applications, modern UI/UX, and cloud-native systems.  
-🔥 Always learning, always building, always improving.
+💻 Passionate about scalable applications, cloud-native systems, and modern UI/UX engineering.  
+🔥 Always learning. Always building. Always improving.  
+📫 **Reach me:** avishkaabeywickrama99@gmail.com
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🌐 Connect With Me
 
-### **Frontend**
-- React.js • Next.js • TypeScript  
-- Tailwind CSS • Zustand • ShadCN UI  
-- Chakra UI • Material UI • Ant Design  
-- TanStack Query • Redux Toolkit
-
-### **Backend**
-- Node.js • Express.js • NestJS  
-- Java • Spring Boot  
-- C# • ASP.NET Core  
-- REST APIs • Microservices • Authentication
-
-### **Databases**
-- PostgreSQL • MySQL • MongoDB • Redis
-
-### **DevOps & Cloud**
-- Docker • GitHub Actions  
-- AWS (EC2, S3, CloudFront, RDS, Lambda, ECS Fargate)  
-- Nginx • PM2 • CI/CD Pipelines
-
-### **Other Skills**
-- OOP • DSA • Clean Architecture  
-- Linux • Bash • Prisma ORM • TypeORM • JPA/Hibernate
+<p align="left">
+  <a href="https://www.linkedin.com/in/avishka-abeywickrama/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://portfolio-nu-khaki-28.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
+  </a>
+  <a href="https://medium.com/@avishkaabeywickrama99">
+    <img src="https://skillicons.dev/icons?i=medium" height="40" />
+  </a>
+  <a href="mailto:avishkaabeywickrama99@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🛠️ Tech Stack
 
-### 🔹 **InsightFlow – AI-powered Microservices Platform**
-A modern microservices architecture using NestJS, React, CI/CD pipelines, AWS, and an image optimization pipeline (CloudFront + Lambda + S3).
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,materialui,vite" />
+</p>
 
-### 🔹 **Course Content Upload System – Silverline IT**
-Spring Boot + React + PostgreSQL with secure file upload, metadata extraction, JWT authentication.
+## ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,cs,dotnet" />
+</p>
 
-### 🔹 **Winlads – Gaming & Rewards Platform**
-Worked on frontend optimization, admin portals, microservices, and advanced image compression workflow.
+## 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
-### 🔹 **Full-Stack TODO App**
-React + Node/Nest + MongoDB/PostgreSQL + Docker.
+## ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux,bash" />
+</p>
 
-> 🔍 Check out more projects on my GitHub and portfolio below.
+## 🧰 Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,figma,prisma,graphql,firebase,ps,npm,yarn" />
+</p>
 
----
+## 🖥️ IDEs & Editors
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,androidstudio,visualstudio" />
+</p>
 
-## 🌱 Currently Learning
-- Distributed Systems  
-- Microservices Patterns  
-- DevSecOps  
-- AI + Full-Stack Integrations  
-
----
-
-## 🤝 Looking to Collaborate On
-- Open-source web apps  
-- React/Next.js frontends  
-- Node/Nest/Spring Boot APIs  
-- AWS cloud-native solutions  
-- AI-enhanced software projects  
-
----
-
-## 📬 How to Reach Me
-- **Email:** `avishkaabeywickrama99@gmail.com`  
-- **Portfolio:** *(Add your portfolio link here)*  
-- **LinkedIn:** *(Add your LinkedIn link here)*  
+## 💻 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I love building software that solves real-world problems — from scalability to performance and beautiful UI/UX.
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avishka4444&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka4444&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka4444&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## ⭐ If you like my work…
-Don’t forget to **follow**, ⭐ **star my repositories**, and connect!
+Consider leaving a ⭐ on my repositories — it inspires me to build more!
 
----
