@@ -63,9 +63,26 @@
 </p>
 
 ## Collaboration & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira,confluence,docker" />
+  <!-- SkillIcons (supported) -->
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  
+  <!-- Bitbucket -->
+  <img src="https://img.shields.io/badge/Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white" height="40" />
+
+  <!-- Jira -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="40" />
+
+  <!-- Confluence -->
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" height="40" />
+
+  <!-- Docker Desktop -->
+  <img src="https://img.shields.io/badge/Docker_Desktop-0db7ed?style=for-the-badge&logo=docker&logoColor=white" height="40" />
 </p>
+
 
 ---
 
