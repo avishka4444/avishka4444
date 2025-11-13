@@ -10,7 +10,7 @@
 
 # 👋 Hey, I'm **Avishka Abeywickrama**
 
-🚀 **Full-Stack Software Engineer | Computer Engineering Undergraduate (UoP)**  
+🚀 **Full-Stack Software Engineer | Computer Engineering Graduate (UoP)**  
 💻 Passionate about full-stack development, distributed systems, cloud-native solutions & DevOps.  
 🔥 Skilled in high-performance architectures using modern frameworks & clean engineering principles.  
 📫 **Email:** avishkaabeywickrama99@gmail.com  
