@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/avishka-abeywickrama/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -32,29 +32,29 @@
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 🎨 Frontend
+## Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,html,css,redux,materialui,bootstrap,vite" />
 </p>
 
-## ⚙️ Backend
+## Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring,dotnet,graphql" />
 </p>
 
-## 🗄️ Databases
+## Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" />
 </p>
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,nginx,linux" />
 </p>
 
-## 🧪 Testing & QA
+## Testing & QA
 <p>
   <img src="https://skillicons.dev/icons?i=jest" /> 
   <img src="https://skillicons.dev/icons?i=vitest" /> 
@@ -62,14 +62,14 @@
   <img src="https://skillicons.dev/icons?i=swagger" />
 </p>
 
-## 🧰 Collaboration & Tools
+## Collaboration & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira,confluence,docker" />
 </p>
 
 ---
 
-# 🏷️ Skills Badges
+# Skills Badges
 <p>
   <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microservices-00c8ff?style=for-the-badge" />
@@ -80,14 +80,14 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avishka4444&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avishka4444&show_icons=true&theme=radical" />
   <img width="48%" src="https://streak-stats.demolab.com?user=avishka4444&theme=radical" />
@@ -99,14 +99,14 @@
 
 ---
 
-# 🐍 GitHub Contribution Snake
+# GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 👀 Visitor Count
+# Visitor Count
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=avishka4444&label=Profile%20Views&color=blueviolet&style=flat" /> 
 </p>
