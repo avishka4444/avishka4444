@@ -116,13 +116,6 @@
 
 ---
 
-# GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 # Visitor Count
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=avishka4444&label=Profile%20Views&color=blueviolet&style=flat" /> 
