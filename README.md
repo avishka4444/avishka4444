@@ -5,7 +5,7 @@
 
 <!-- Typing Animation | UPDATED WITH FULL STACK -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=820&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Angular;Node.js+%7C+NestJS+%7C+Express+%7C+Spring+Boot;TypeScript+%7C+JavaScript+%7C+Java+%7C+.NET+Core;REST+APIs+%7C+GraphQL+%7C+Prisma+ORM;PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+Redis;AWS+ECS+%7C+Lambda+%7C+S3+%7C+CloudFront;Docker+%7C+Kubernetes+%7C+CI%2FCD+Pipelines;Jest+%7C+Vitest+%7C+Swagger+%7C+Postman;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=820&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Angular;Node.js+%7C+NestJS+%7C+Express+%7C+Spring+Boot;TypeScript+%7C+JavaScript+%7C+Java+%7C+.NET+Core;REST+APIs+%7C+GraphQL+%7C+Prisma+ORM;PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+Redis;AWS+%7CDocker+%7C+Kubernetes+%7C+Jenkins+%7C+CI%2FCD+Pipelines;Jest+%7C+Vitest+%7C+Swagger+%7C+Postman;Always+Learning.+Always+Building." />
 </p>
 
 # 👋 Hey, I'm **Avishka Abeywickrama**
@@ -26,10 +26,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
   </a>
   <a href="https://medium.com/@avishkaabeywickrama99">
-    <img src="https://skillicons.dev/icons?i=medium" height="40"/>
-  </a>
-  <a href="mailto:avishkaabeywickrama99@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40"/>
   </a>
 </p>
 
@@ -93,7 +90,7 @@
 # 📊 GitHub Analytics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avishka4444&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka4444&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=avishka4444&theme=radical" />
 </p>
 
 <p align="center">
